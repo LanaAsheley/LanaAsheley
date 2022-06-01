@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oie, eu sou a Lana Asheley!
 
-<!--
-**LanaAsheley/LanaAsheley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudando programação
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/LanaAsheley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanaAsheley&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaAsheley&layout=compact&langs_count=7&theme=midnight-purple"/>
+      <img align="right" alt="Lana-pic" height="150" style="border-radius:50px;" 
+src=https://cdn.discordapp.com/attachments/934990728373886996/981622341731770419/download20220603151219.png
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://instagram.com/lana.asheley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:asheleylana70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <a href = "https://twitter.com/__Asheley_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+   
+   ![Snake animation](https://github.com/LanaAsheley/LanaAsheley/blob/output/github-contribution-grid-snake.svg)
+   
+ </div>
