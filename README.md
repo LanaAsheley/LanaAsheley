@@ -32,11 +32,5 @@ desenvolvedora Front-end.
 <h1 align='center'>
   🐍 Commits
 </h1>
-    
-    
+     
  ![Snake animation](https://github.com/LanaAsheley/LanaAsheley/blob/output/github-contribution-grid-snake.svg)
-
-<div align='center'>
-    <img align="center" alt="Lana-pic" height="500" style="border-radius:50px;" 
-   src=https://cdn.discordapp.com/attachments/953748242292699174/954252399403491428/igor-freitas-mesa.gif
-</div>
